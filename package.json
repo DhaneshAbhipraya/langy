@@ -1,0 +1,14 @@
+{
+  "name": "proglang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "langy"
+  },
+  "author": "DhaneshAbhipraya",
+  "license": "ISC"
+}
